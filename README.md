@@ -3,4 +3,6 @@
 # Lab7 
 Access SpringBoot RESTFul API - in branch *server* 
 adjust readme tttt
+
+Some more content that i am entering
 Access Angular Client Application - in branch *client*
